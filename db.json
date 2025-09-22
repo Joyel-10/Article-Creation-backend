@@ -1,0 +1,88 @@
+{
+  "articles": [
+    {
+      "title": "The Rise of Global Sustainment",
+      "subTitle": "Global Movement",
+      "authorName": "Peter",
+      "date": "2025-08-27",
+      "image": "C:\\fakepath\\A1.jpg",
+      "introduction": "In recent years, the concept of sustainable living has evolved from a niche lifestyle choice to a global movement. As climate change, resource depletion, and environmental degradation become increasingly urgent issues, individuals and communities are rethinking how they live, consume, and interact with the planet.",
+      "body": "Sustainable living involves making choices that reduce one’s environmental impact. This includes everything from minimizing waste and conserving energy to choosing eco-friendly products and supporting local economies. The rise of zero-waste lifestyles, plant-based diets, and renewable energy adoption are all part of this shift.\nGovernments and corporations are also playing a role. Policies promoting green infrastructure, incentives for electric vehicles, and bans on single-use plastics are becoming more common. Meanwhile, businesses are embracing sustainability not just as a moral imperative but as a competitive advantage, with consumers increasingly favoring brands that align with their values.",
+      "conclusion": "However, challenges remain. Access to sustainable options can be limited by geography or income, and misinformation can cloud public understanding. Education and innovation are key to overcoming these barriers and ensuring that sustainability is inclusive and effective.\nUltimately, sustainable living is not about perfection—it’s about progress. Every small change contributes to a larger impact, and as more people join the movement, the potential for meaningful environmental change grows exponentially.\n",
+      "id": 1
+    },
+    {
+      "title": "The Everlasting Magic of Movies",
+      "subTitle": "Evolution of Cinema",
+      "authorName": "Joyel Shaji",
+      "date": "2025-08-20",
+      "introduction": "Movies are more than just entertainment—they are mirrors of society, windows into imagination, and bridges between cultures. From the black-and-white silent films of the early 1900s to today’s high-definition blockbusters powered by CGI, cinema has always adapted with technology while keeping storytelling at its heart.At their core, movies are stories brought to life. They combine visuals, sound, dialogue, and music in a way that no other medium can. Unlike novels or plays, films immerse audiences in fully realized worlds where emotions, conflicts, and characters feel immediate and real. Whether it’s a heartbreaking drama, a laugh-out-loud comedy, or a pulse-racing action thriller, movies speak directly to human emotions.",
+      "body": "Cinema has evolved dramatically over the decades. Silent films gave way to “talkies,” color revolutionized storytelling, and digital technology expanded creative possibilities. Today, streaming platforms are reshaping how audiences watch films, making global cinema accessible at home. Independent creators now share space with Hollywood giants, offering diverse narratives to worldwide audiences.Films don’t just reflect culture—they shape it. Iconic movies often define eras: Casablanca symbolized hope during World War II, while Star Wars introduced generations to a galaxy of imagination. Movies influence fashion, language, and even politics. They also give underrepresented voices a chance to be heard, fostering empathy across borders and perspectives.",
+      "conclusion": "Movies offer escape, but also connection. They let us live a thousand lives, explore worlds that don’t exist, and revisit the deepest parts of our humanity. They bring strangers together in theaters, spark debates among friends, and leave us with quotes and scenes we never forget.\nIn the end, movies endure because they are more than just moving images—they are experiences, emotions, and memories. As technology advances, the way we watch films may change, but the magic of movies will remain timeless.",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "fullName": "Michael Scott",
+      "email": "michael@dundermifflin.com",
+      "password": "worldsbestboss",
+      "id": 1
+    },
+    {},
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "fullName": "vhjgv b",
+      "email": "dfs@gmail.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "fullName": "vhjgv b12333",
+      "email": "dfs@gmail.com",
+      "password": "123",
+      "id": 10
+    },
+    {
+      "fullName": "",
+      "email": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "fullName": "",
+      "email": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "fullName": "bjgj",
+      "email": "ngh@gmail.com",
+      "password": "321",
+      "id": 13
+    },
+    {
+      "fullName": "Vishnu",
+      "email": "vishnu@gmail.com",
+      "password": "000",
+      "id": 14
+    }
+  ]
+}
